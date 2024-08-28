@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137084853136",
+    "project_id": "fir-integration-74da9",
+    "storage_bucket": "fir-integration-74da9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137084853136:android:21ff8c3a2f3e1c50417115",
+        "android_client_info": {
+          "package_name": "com.luizvicari.firebaseintegration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0JOAszRVsZBoIHTqzN09VdqrbXXNefoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
